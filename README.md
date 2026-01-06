@@ -35,8 +35,8 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=josh-janes&show_icons=true&count_private=true&theme=tokyonight" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josh-janes&layout=compact&theme=tokyonight" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josh-janes&theme=tokyonight" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josh-janes&theme=tokyonight" />
 
 <br/>
 
