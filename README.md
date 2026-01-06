@@ -57,7 +57,6 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-black?style=for-the-badge&logo=springboot)
 ![Kotlin](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin)
 ![C%23](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp)
-![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Vue](https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=vue.js)
