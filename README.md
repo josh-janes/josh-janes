@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🚀 Builder of weird, fun, and powerful software  
+### Builder of weird, fun, and cool software
 **LLM tooling · simulations · dev infra · interactive systems**
 
 [![Follow](https://img.shields.io/github/followers/josh-janes?label=Follow&style=for-the-badge)](https://github.com/josh-janes)
