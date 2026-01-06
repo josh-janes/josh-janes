@@ -26,7 +26,7 @@
 |--------|-----------|
 | **[llm-tree](https://github.com/josh-janes/llm-tree)** | Interactive DAG visualization of LLM history |
 | **[ant-simulation](https://github.com/josh-janes/ant-simulation)** | Neural Cellular Automata ant colony |
-| **[promptloop](https://github.com/josh-janes/promptloop)** | Visual prompt-chain workflow engine |
+| **[promptloop](https://github.com/josh-janes/promptloop)** | AI-powered looping pedal and backing track generator |
 | **[localize-fast](https://github.com/josh-janes/localize-fast)** | Translate files using local Ollama models |
 
 ---
