@@ -14,7 +14,7 @@
 
 ## ⚡ About Me
 
-- Software Enginner in Calgary.
+- Full-Stack Software Engineer in Calgary.
 - I build **LLM tools, simulators, dev infra, and interactive experiments**
 - I like making software that uses AI to unlock new types of experiences and creativity.
 
