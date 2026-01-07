@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Builder of weird, fun, and cool software
+### builder of weird, fun software
 **LLM tooling · simulations · dev infra · interactive systems**
 
 [![Follow](https://img.shields.io/github/followers/josh-janes?label=Follow&style=for-the-badge)](https://github.com/josh-janes)
@@ -12,7 +12,7 @@
 
 ---
 
-## ⚡ About Me
+## about
 
 - Full-Stack Software Engineer in Calgary.
 - I build **LLM tools, simulators, dev infra, and interactive experiments**
@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## projects
 
 | Project | What it is |
 |--------|-----------|
@@ -31,7 +31,7 @@
 
 ---
 
-## 📊 GitHub At A Glance
+## github
 
 <div align="center">
 
@@ -46,7 +46,7 @@
 
 ---
 
-## 🧰 Tech I Use
+## tech
 
 <div align="center">
 
@@ -68,7 +68,7 @@
 
 ---
 
-## 🌐 Find Me
+## me
 
 - 🌍 Website → **https://jjanes.ca**
 - 💻 LinkedIn → **https://www.linkedin.com/in/josh-janes/**
