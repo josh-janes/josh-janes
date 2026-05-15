@@ -3,7 +3,7 @@
 <div align="center">
 
 ### builder of weird, fun software
-**LLM tooling · simulations · dev infra · interactive systems**
+**simulations · generative AI · games · weird experiments**
 
 [![Follow](https://img.shields.io/github/followers/josh-janes?label=Follow&style=for-the-badge)](https://github.com/josh-janes)
 [![Website](https://img.shields.io/badge/Website-jjanes.ca-black?style=for-the-badge)](https://jjanes.ca)
@@ -14,9 +14,12 @@
 
 ## about
 
-- Full-Stack Software Engineer in Calgary.
-- I build **LLM tools, simulators, dev infra, and interactive experiments**
-- I like making software that uses AI to unlock new types of experiences and creativity.
+I like software that does things you didn't program. Emergent behavior, procedural generation, AI that makes something genuinely new. I've been at it since before generative AI was a thing anyone talked about, and I still find it fascinating.
+
+Outside of work I ship Android games, build simulations, use AI to make music, and write about all of it.
+
+- 📍 Calgary, AB
+- ✍️ Writing → [jjanes.ca/blog](https://jjanes.ca/blog)
 
 ---
 
@@ -24,8 +27,10 @@
 
 | Project | What it is |
 |--------|-----------|
-| **[llm-tree](https://github.com/josh-janes/llm-tree)** | Interactive DAG visualization of LLM history |
-| **[ant-simulation](https://github.com/josh-janes/ant-simulation)** | Neural Cellular Automata ant colony |
+| **[Slide 2.0](https://play.google.com/store/apps/details?id=com.slidesequel)** | Android puzzle game with procedural level generation and an AI-generated soundtrack |
+| **[ant-simulation](https://github.com/josh-janes/ant-simulation)** | Neural Cellular Automata ant colony, [try it live](https://jjanes.ca/ant-simulation) |
+| **[ant-simulation-3d](https://jjanes.ca/ant-simulation-3d)** | 3D version, vibe-coded with Gemini |
+| **[llm-tree](https://github.com/josh-janes/llm-tree)** | Interactive DAG visualization of LLM history, see it [here](https://jjanes.ca/llm-tree) |
 | **[promptloop](https://github.com/josh-janes/promptloop)** | AI-powered looping pedal and backing track generator |
 | **[localize-fast](https://github.com/josh-janes/localize-fast)** | Translate files using local Ollama models |
 
@@ -50,29 +55,15 @@
 
 <div align="center">
 
-
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
 ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-black?style=for-the-badge&logo=springboot)
 ![Kotlin](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin)
-![C%23](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp)
+![Android](https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Vue](https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=vue.js)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws)
-![Ruby](https://img.shields.io/badge/Ruby-black?style=for-the-badge&logo=ruby)
 
 </div>
 
 ---
 
-## me
-
-- 🌍 Website → **https://jjanes.ca**
-- 💻 LinkedIn → **https://www.linkedin.com/in/josh-janes/**
----
-
-_Last updated: 2026-01-06_
-
+_Last updated: 2026-05-14_
